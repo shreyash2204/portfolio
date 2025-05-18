@@ -1,0 +1,243 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-banner.png",
+    "name": "Shreyash Gupta",
+    "heading": "Hay! I’m",
+    "typingText": ["Network-Engineer", 1500, "Developer", 1500, "Linux Administrator", 1500],
+    "description": "With a fervent dedication to both frontend development and network engineering, I bring a unique blend of creativity and technical expertise to every project. Despite being a newcomer, my freelance endeavors underscore my commitment to client satisfaction. Let's collaborate to transform your vision into reality and ensure your utmost happiness with the results!",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:instagram",
+      "iconBgClass": "instagram",
+      "href": "https://www.instagram.com/guptashreyash22/"
+    },
+    { "icon": "fa-brands:github", "iconBgClass": "github", "href": "https://github.com/shreyash2204" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/shreyash-gupta-747a6b205"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner1.png",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>WEBSITE and LINUX </span> PROJECTS",
+    "description": "I'm a dynamic individual with a fervent passion for frontend development and network engineering. Despite being a fresher in the field, my portfolio as a freelancer speaks volumes about my dedication to client satisfaction and delivering exceptional results. I thrive on challenges, constantly seeking opportunities to learn and grow. Let's join forces to bring your projects to life and ensure your utmost satisfaction every step of the way!",
+    "funfacts": [
+      {
+        "title": "Satisfied Clients",
+        "number": 20
+      },
+      {
+        "title": "Years Experience",
+        "number": 2
+      },
+      {
+        "title": "Certification",
+        "number": 10
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/popup-project-1.jpg",
+        "title": "Voilence Detection System",
+        "subTitle": "Real-time violent behavior detection",
+        "details": {
+          "title": "Real-time monitoring and identification of violent behavior through AI-powered analysis.",
+          "description": "Detectron revolutionizes CCTV surveillance by integrating AI, machine learning, and IoT technologies,transforming traditional cameras into intelligent, proactive systems that continuously monitor environments,detect unusual activities, and provide real-time alerts, significantly enhancing urban safety, operationalefficiency, and enabling faster response to security threats in smart cities.",
+          "type": "WebApp",
+          "langages": "Python, Java, SQL, JS",
+          "platform": "Visual Studio",
+          "country": "India",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-2.jpg",
+        "title": "Line Follower Robot",
+        "subTitle": "Autonomous path tracking",
+        "details": {
+          "title": "Autonomous path tracking using sensors for precise navigation",
+          "description": "An autonomous Line Follower Robot uses sensors to detect and follow predefined paths accurately. It continuously adjusts its movements to stay on the track, ensuring precise navigation. Designed for efficiency,this robot operates independently, making it ideal for tasks that require reliable and consistent path tracking .",
+          "type": "Robotics",
+          "langages": "Cpp (Arduino)",
+          "platform": "Arduino IDE",
+          "country": "India",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-3.jpg",
+        "title": "Website Development",
+        "subTitle": "Building Dynamic and Responsive Websites",
+        "details": {
+          "title": "Website development for Kings of Cloud Restaurant",
+          "description": "Developed a responsive website for a luxury sky dining restaurant, featuring an elegant design, interactive menu, online reservation system, and photo gallery. The site enhances user experience with smooth navigation and mobile compatibility, providing customers with a seamless way to explore offerings and book tables at their convenience.",
+          "type": "Website",
+          "langages": "React, HTML, CSS, JS",
+          "platform": "Visual Studio",
+          "country": "India",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-4.png",
+        "title": "Text to image generator ",
+        "subTitle": "Web App",
+        "details": {
+          "title": " Text to Image Generator Imagine",
+          "description": "The Text-to-Image Generator: Imagine Project transforms written text into visually rich AI-generated images using advanced deep learning models. It enables users to create art from prompts, supporting creativity and visual storytelling. The platform offers a user-friendly interface for real-time image generation, merging language understanding with powerful image synthesis.",
+          "type": "Website",
+          "langages": "Python, HTML, CSS, JS ,React,Pytorch",
+          "platform": "Visual Studio",
+          "country": "India",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-5.png",
+        "title": "Web crawlers",
+        "subTitle": "Automated data extraction streamlines the process of collecting information.",
+        "details": {
+          "title": "Automated Data Extraction from the Web",
+          "description": "The Web Crawler Project is designed to automatically browse websites and extract relevant data such as text, links, and metadata. Built using Python and libraries like BeautifulSoup and Scrapy, it enables efficient data collection for research, analytics, and automation, supporting large-scale web indexing and real-time content monitoring tasks. ",
+          "type": "Automation Tool",
+          "langages": "Python",
+          "platform": "Visual Studio",
+          "country": "India",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-6.png",
+        "title": "Website Design",
+        "subTitle": " Seamless shopping experience with secure transactions.Optimized for users.",
+        "details": {
+          "title": "Connecting Buyers and Sellers Effortlessly",
+          "description": "The E-commerce Website Project delivers a user-friendly online platform for buying and selling products efficiently. It features secure payment gateways, dynamic product listings, user accounts, and order tracking.Designed with responsive layouts, it ensures seamless shopping experiences across devices, enhancing customer satisfaction and boosting sales for businesses.",
+          "type": "Website",
+          "langages": "React, HTML, CSS, JS",
+          "platform": "Visual Studio",
+          "country": "India",
+          "url": "https://ecommercereact-js.vercel.app"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "All <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-01.jpg",
+        "title": "Web Developemnet",
+        "subTitle": "I build responsive, scalable websites using HTML, CSS, JavaScript, and React, tailored to client-specific needs.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-02.png",
+        "title": "App Development",
+        "subTitle": "I offer app development services with focus on performance, UI/UX, scalability, and cross-platform support.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "Computer Network",
+        "subTitle": "I offer network setup, optimization, and maintenance services to ensure efficient and secure connectivity for Organization.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "Linux Administrator",
+        "subTitle": "I provide Linux server management, security, automation, updates, backups, and performance optimization.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Project Lead",
+        "company": "TOSS Solutions | Jabalpur",
+        "duration": "March 2022 - June 2022",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Managed and executed multiple high-impact projects across diverse departments,demonstrating strongleadership and organizational skills.Collaborated closely with cross-functional teams, ensuring clearcommunication, alignment of goals, and efficient task delegation.Proactively streamlined workflows toenhance productivity, identified potential risks early, and implemented effective mitigation strategies.Consistently delivered high-quality outputs within tight deadlines."
+      },
+      {
+        "designation": "Front-end Engineer",
+        "company": "Kannect System | Jabalpur",
+        "duration": "January 2023 - May 2024",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Delivered a wide range of freelance web development projects utilizing HTML, CSS, JavaScript, and React,tailored to meet unique client needs and business objectives. Maintained close communication with clientsthroughout the development process to ensure alignment with expectations. Consistently met tightdeadlines and budget constraints while delivering responsive, user-friendly, and visually appealing websites,resulting in high levels of client satisfaction ."
+      },
+      {
+        "designation": "Civilian Hired Instructor",
+        "company": "6TTR | Goa",
+        "duration": "August 2024 - Septemeber 2024",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "As a Civilian Hired Instructor (CHI) for the Indian Army at 6TTR, I led comprehensive training sessions on IoTand Python programming. I provided hands-on guidance, practical demonstrations, and real-world projectinsights to enhance the technical proficiency of participants. My efforts focused on building a strongfoundation in emerging technologies, fostering innovation, and empowering trainees with the skills neededfor modern defense and communication systems."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact-us.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "gshreyash83@gmail.com" },
+      { "title": "Contact me", "tel": "+91 97558 33563" }
+    ]
+  }
+}
